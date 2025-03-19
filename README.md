@@ -21,8 +21,6 @@ My experience includes:
 - Currently learning algorithms through [Stanford's course](https://www.coursera.org/specializations/algorithms)
 - Certified Full-stack Developer under the German AZAV standard: [click here for certificate](https://github.com/user-attachments/files/19336951/Alexandr_Culacov.3.pdf)
 
-![image](https://github.com/user-attachments/assets/8349a8da-a989-49ff-867b-e034db19dc13)
-
 ## Languages & Tools 🛠:
 <div align="center">
 
