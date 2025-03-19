@@ -51,6 +51,6 @@ My experience includes:
 You can reach me through the following channels:
 
 - **Telegram:** [@Genetic152](https://t.me/Genetic152)
-- **LinkedIn:** [Culacov Alexandr](www.linkedin.com/in/сulaсov-alexandr-314505337)
+- **LinkedIn:** [Culacov Alexandr](https://www.linkedin.com/in/сulaсov-alexandr-314505337)
 - **Email:** [alex.10.03.2006@gmail.com](mailto:alex.10.03.2006@gmail.com)
 - **Discord:** [genetic152](https://discordapp.com/users/USERID)
