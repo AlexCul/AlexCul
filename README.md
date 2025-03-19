@@ -6,20 +6,20 @@
 
 ## About Me  
 
-I'm a passionate **software developer** with a deep interest in whole software engineering, especially **low-level programming, compilers, and scalable web architectures**.  
-I love building **complex, efficient, high-performance systems** and experimenting.  
+I'm a passionate **software developer** with a deep interest in **software engineering**, especially **low-level programming, compilers, and scalable web architectures**.  
+I love building **complex, efficient, high-performance systems** and experimenting with new technologies.
 
 ### 💻 Experience 
 My experience includes:
 - Working with online-shops through Magento and bare-metal development
-- Hands-on experience with development, using various technologies either for backend and frontend
-- Some open-source projects you can see in my repos
+- Hands-on experience with both **backend** and **frontend** development using a variety of technologies
+- Some open-source projects you can check out in my repos
 
 🚀 Always learning, always coding!  
 
 ### 🎓 Education
-- Currently learning algorithms using [the Stanford's following course](https://www.coursera.org/specializations/algorithms)
-- I'm also certified as a Full-stack developer by german AZAV standard: [click](https://github.com/user-attachments/files/19336951/Alexandr_Culacov.3.pdf)
+- Currently learning algorithms through [Stanford's course](https://www.coursera.org/specializations/algorithms)
+- Certified Full-stack Developer under the German AZAV standard: [click here for certificate](https://github.com/user-attachments/files/19336951/Alexandr_Culacov.3.pdf)
 
 ![image](https://github.com/user-attachments/assets/8349a8da-a989-49ff-867b-e034db19dc13)
 
@@ -46,11 +46,14 @@ My experience includes:
 
 </div>
 
-## Contact me
+## 📬 Contact me
 
 You can reach me through the following channels:
 
-- **Telegram:** [@Genetic152](https://t.me/Genetic152)
-- **LinkedIn:** [Culacov Alexandr](https://www.linkedin.com/in/сulaсov-alexandr-314505337)
-- **Email:** [alex.10.03.2006@gmail.com](mailto:alex.10.03.2006@gmail.com)
-- **Discord:** [genetic152](https://discordapp.com/users/USERID)
+- **Telegram:** [@Genetic152](https://t.me/Genetic152) 📱
+- **LinkedIn:** [Culacov Alexandr](https://www.linkedin.com/in/сulaсov-alexandr-314505337) 💼
+- **Email:** [alex.10.03.2006@gmail.com](mailto:alex.10.03.2006@gmail.com) 📧
+- **Discord:** [genetic152](https://discordapp.com/users/USERID) 🎮
+
+Feel free to reach out for collaborations, questions, or anything else! 😊
+
