@@ -9,15 +9,15 @@
 I'm a passionate **software developer** with a deep interest in **software engineering**, especially **low-level programming, compilers, and scalable web architectures**.  
 I love building **complex, efficient, high-performance systems** and experimenting with new technologies.
 
-### 💻 Experience 
+### Experience 💻 
 My experience includes:
 - Working with online-shops through Magento and bare-metal development
 - Hands-on experience with both **backend** and **frontend** development using a variety of technologies
 - Some open-source projects you can check out in my repos
 
-🚀 Always learning, always coding!  
+Always learning, always coding! 🚀
 
-### 🎓 Education
+### Education 🎓
 - Currently learning algorithms through [Stanford's course](https://www.coursera.org/specializations/algorithms)
 - Certified Full-stack Developer under the German AZAV standard: [click here for certificate](https://github.com/user-attachments/files/19336951/Alexandr_Culacov.3.pdf)
 
@@ -44,7 +44,7 @@ My experience includes:
 
 </div>
 
-## 📬 Contact me
+## Contact me 📬
 
 You can reach me through the following channels:
 
