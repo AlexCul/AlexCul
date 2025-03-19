@@ -1,3 +1,3 @@
 ## Hi there 👋
 
-![til](https://github.com/user-attachments/assets/854bfd85-b31a-4984-800d-615b3ade68df)
+![image](https://github.com/user-attachments/assets/42d2d940-c205-4032-9b58-22b27df324fb)
