@@ -48,8 +48,8 @@ Always learning, always coding! 🚀
 
 You can reach me through the following channels:
 
-- **Telegram:** [@Genetic152](https://t.me/Genetic152) 
-- **LinkedIn:** [Culacov Alexandr](https://www.linkedin.com/in/сulaсov-alexandr-314505337) 
+- **Telegram:** [@Genetic152](https://t.me/Genetic152)
+- **LinkedIn:** [Culacov Alexandr](https://linkedin.com/in/culacov-alexandr) 
 - **Email:** [alex.10.03.2006@gmail.com](mailto:alex.10.03.2006@gmail.com) 
 - **Discord:** [genetic152](https://discordapp.com/users/genetic152) 
 
