@@ -6,6 +6,8 @@
 
 ## About Me  
 
+![Codewars](https://www.codewars.com/users/Bingine/badges/small)
+
 I'm a passionate **software developer** with a deep interest in **software engineering**, especially **low-level programming, compilers, and scalable web architectures**.  
 I love building **complex, efficient, high-performance systems** and experimenting with new technologies.
 
