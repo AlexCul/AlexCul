@@ -15,7 +15,11 @@ I love building **complex, efficient, high-performance systems** and experimenti
 My experience includes:
 - Working with online-shops through Magento and bare-metal development
 - Hands-on experience with both **backend** and **frontend** development using a variety of technologies
-- Some open-source projects you can check out in my repos
+- Some open-source projects you can check out in my repos.
+
+For example:
+- [I was a team lead in this project](https://github.com/ICH-Inner-Project/Chatty)
+- [I also developed this micro-service API](https://github.com/Big-Projects-Microservices/E-Commerce)
 
 Always learning, always coding! 🚀
 
